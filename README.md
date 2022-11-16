@@ -8,6 +8,7 @@ Markets:  Futures, Forex, US Equity ETFs.
 Databases:  MariaDB, MYSQL, SQL
 Exchanges:  CME, NYSE, NASDAQ, FX 
 Cloud Systems:  Azure, AWS, Google
+Database: SQL, MS Access, MariaDB 
 
 PC Languages:  CMD Bash, Python, C++, HTML, CSS, Pinescript 
 
