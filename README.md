@@ -11,6 +11,8 @@ Cloud Systems:  Azure, AWS, Google
 
 PC Languages:  CMD Bash, Python, C++, HTML, CSS, Pinescript 
 
+IT/Cloud Preferences:  AWS, Azure, Google 
+
 Brokerage API/SYSTEMS: 
                      
                       Futures >> Globex OEC,CT4, Thinkorswim
