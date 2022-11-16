@@ -13,7 +13,9 @@ PC Languages:  CMD Bash, Python, C++, HTML, CSS, Pinescript
 
 Brokerage API/SYSTEMS: 
                       Futures >>Globex [OEC,CT4, Thinkorswim]
+                      
                       FX >> Oanda >> V20, Python 
+                      
                       Equities >>Thinkorswim>> Thinkscript
                       
                       
