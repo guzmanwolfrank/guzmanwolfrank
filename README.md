@@ -10,13 +10,12 @@ Databases:  MariaDB, MYSQL, SQL
 
 Exchanges:  CME, NYSE, NASDAQ, FX 
 
-Cloud Systems:  Azure, AWS, Google
 
 Database: SQL, MS Access, MariaDB 
 
 PC Languages:  CMD Bash, Python, C++, HTML, CSS, Pinescript 
 
-IT/Cloud Preferences:  AWS, Azure, Google 
+IT/Cloud Systems:  AWS, Azure, Google 
 
 Brokerage API/SYSTEMS: 
                      
