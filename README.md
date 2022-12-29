@@ -6,7 +6,10 @@ The goal is to continue to build and deploy Cloud Architecture solutions and aut
 
 My special interests within Cloud environments include storage and compute services in AWS.  I also enjoy working on data analysis using Python, Excel and SQL based Databases. 
 
+#
 
+
+#
 
 Markets: 
 
