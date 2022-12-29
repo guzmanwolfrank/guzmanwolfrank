@@ -8,7 +8,11 @@ My special interests within Cloud environments include storage and compute servi
 
 
 
-Markets:  Futures, Forex, US Equity ETFs.
+Markets: 
+
+          Futures
+          Forex
+          US Equity ETFs.
 
 
 
