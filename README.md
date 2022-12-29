@@ -1,9 +1,10 @@
 - Hi, 
 
-I am currently coding in Python while attaining more skills at the AWS Architect Associate level. The goal is to deploy automated market strategies while using Cloud solutions within AWS, Azure and Google Cloud technologies.  
+I am currently coding in Python while attaining more skills at the AWS Architect Associate level. 
+
+The goal is to deploy automated market strategies while using Cloud solutions within AWS, Azure and Google Cloud technologies.  
 
 My special interests in Cloud environments include storage and compute strategies in AWS dealing with financial data and market information. 
-
 I also enjoy working on data analysis using Python, Excel and SQL based Databases. 
 
 
