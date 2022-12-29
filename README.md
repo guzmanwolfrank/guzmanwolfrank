@@ -8,11 +8,14 @@ I like to focus on market algorithms, web server systems such as AWS & Azure and
 
 Markets:  Futures, Forex, US Equity ETFs.
 
-Databases:  MariaDB, MYSQL, SQL
+
 
 Exchanges:  CME, NYSE, NASDAQ, FX 
 
-Database: SQL, MS Access, MariaDB 
+Database: 
+          SQL
+          MS Access
+          MariaDB 
 
 Languages:  
     
