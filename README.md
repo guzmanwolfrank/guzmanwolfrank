@@ -14,17 +14,28 @@ Exchanges:  CME, NYSE, NASDAQ, FX
 
 Database: SQL, MS Access, MariaDB 
 
-PC Languages:  CMD Bash, Python, C++, HTML, CSS, Pinescript 
+Languages:  
+    
+          CMD Bash
+          Python
+          C++
+          HTML
+          CSS
+         
 
-IT/Cloud Systems:  AWS, Azure, Google 
+IT/Cloud Systems:  
+  
+          AWS
+          Azure 
+          Google 
 
 Brokerage API/SYSTEMS: 
                      
-                      Futures >> Globex OEC,CT4, Thinkorswim
+          Futures >> Globex OEC,CT4, Thinkorswim
                       
-                      FX >> Oanda >> V20, Python 
+          FX >> Oanda >> V20, Python 
                       
-                      Equities >>Thinkorswim>> Thinkscript
+          Equities >>Thinkorswim>> Thinkscript
                       
                       
 
