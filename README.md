@@ -66,11 +66,6 @@ OS:
           Linux + Windows 10, Apple IOS 
 
 
-
-Scripts of Interest: Trading Tools/Quant Signals, WEB Server Automation, AWS Cloud Python, AWS Console, AWS EC2, AWS RDS 
-Also, automated Cloud server systems and security groups within AWS.  
-
-
 #
 
 Thanks for stopping by.
