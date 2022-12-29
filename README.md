@@ -1,4 +1,4 @@
-- Hi, 
+Hi, 
 
 I am currently coding in Python while attaining more skills at the AWS Architect Associate level. 
 
@@ -9,7 +9,7 @@ My special interests within Cloud environments include storage and compute servi
 #
 
 
-#
+
 
 Markets: 
 
