@@ -5,7 +5,7 @@ The goal is to continue to build and deploy Cloud Architecture solutions and aut
 
 My special interests within Cloud environments include storage and compute services in AWS.  I also enjoy working on data analysis using Python, Excel and SQL based Databases. 
 
-All algo code is constantly updated privately, however I love to collab and share public access to AWS Cloud projects pertaining to work in the Architect Associate ranks! 
+All algo code is constantly updated privately, however I love to collab, send me an inquiry for algo strategies and I also share public access to AWS Cloud projects pertaining to work in the Architect Associate ranks! 
 
 Thank you! 
 
