@@ -11,8 +11,7 @@ Combining AWS Services with market strategies can help account mirroring and aut
 
 My special interests within Cloud environments include storage and compute services in AWS.  I also enjoy working on data analysis using Python, Excel and SQL based Databases. 
 
-All algo market code is constantly updated privately, however I love to collab, send me an inquiry for algo strategies and I also share public access to AWS Cloud projects pertaining to work in the Architect Associate role. 
-
+All algo market code is constantly updated privately, however I love to collab, send me an inquiry for algo strategies and I also share public access to AWS Cloud projects pertaining to work in the Cloud and Futures markets!
 
 Thank you! 
 
