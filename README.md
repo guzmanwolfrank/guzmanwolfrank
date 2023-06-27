@@ -74,10 +74,6 @@ OS:
 
 #
 
-Thanks for stopping by.
-
-Wolfrank
-
 
 
 
