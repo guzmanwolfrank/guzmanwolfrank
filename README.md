@@ -7,11 +7,7 @@ I mainly trade American Futures within the CME Globex system.  My emphasis is on
 
 Algo strategies are designed mainly for Forex and Futures.  
 
-Combining AWS Services with market strategies can help account mirroring and automated strategies. Continuously running instances can also execute trading and market data functions using AWS Services such as Lambda.   
 
-My special interests within Cloud environments include storage and compute services in AWS.  I also enjoy working on data analysis using Python, Excel and SQL based Databases. 
-
-All algo market code is constantly updated privately, however I love to collab, send me an inquiry for algo strategies and I also share public access to AWS Cloud projects pertaining to work in the Cloud and Futures markets!
 
 Thank you! 
 
