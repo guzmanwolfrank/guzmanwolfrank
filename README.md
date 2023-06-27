@@ -5,7 +5,8 @@ The goal is to continue to build and deploy AWS Cloud Architecture solutions and
 
 I mainly trade American Futures within the CME Globex system.  My emphasis is on the Nasdaq 100 Index Futures, both the Emini and Micro contract. 
 
-Algo strategies are designed mainly for Forex and Futures.  
+
+Currently working on replication systems for futures markets. 
 
 
 
