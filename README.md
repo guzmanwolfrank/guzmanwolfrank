@@ -1,6 +1,6 @@
 Hi, 
 
-I am currently coding for data analysis in Python while sharpening my skills at the AWS Architect Associate level. 
+I am currently coding for the futures market,data analysis and AWS Cloud.  I prefer Python while sharpening my skills at the AWS Architect Associate level. 
 The goal is to continue to build and deploy AWS Cloud Architecture solutions and automated market strategies within the AWS cloud.
 
 Currently working on replication systems for futures markets along with Data Analysis within the CME Group data systems. 
@@ -64,7 +64,7 @@ IDE:
           Notepad 
           MS Powershell  
 
-OS: 
+OS:       
 
           Linux + Windows 10, Apple IOS 
 
