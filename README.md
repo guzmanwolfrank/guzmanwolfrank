@@ -10,8 +10,8 @@ Data Analysis:
           Statistical Analysis:Python scripts built for the analysis of statistics,
           including probability, hypothesis testing, and regression analysis.
           
-          Data visualization: Ability to create clear and concise visualizations of data, 
-          such as charts, graphs, and dashboards on various software: Tableau, Google Sheets, Looker, BI, Excel
+          Data visualization: Ability to create clear and concise visualizations of data. 
+          Dashboards on various software: Tableau, Google Sheets, Looker, BI, Excel
 
 
 
