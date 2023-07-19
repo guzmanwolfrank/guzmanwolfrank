@@ -53,11 +53,6 @@ Markets:
           US Equity ETFs.
 
 
-
-Exchanges:  
-          
-          CME, NYSE, NASDAQ, FX 
-
 Database: 
          
           SQL
