@@ -1,7 +1,21 @@
 Hi, 
 
-I am currently coding for the futures market,data analysis and AWS Cloud.  I prefer Python while sharpening my skills at the AWS Architect Associate level. 
-The goal is to continue to build and deploy AWS Cloud Architecture solutions and automated market strategies within the AWS cloud.
+I am currently coding:
+
+Futures Markets:  
+                    CME Globex Nasdaq 100 Emini Index, Nasdaq 100 Micro Emini Index, WTI Crude Oil, Dow Jones Emini Index
+
+AWS: 
+                    Scripts for various services and interaction with AWS Terminals: CLI. Cloud formation, Instance management and Service Architecture. 
+
+Data Analysis: 
+                    Data analysis and exploration: Ability to use statistical methods and machine learning algorithms to extract insights from data.
+                    Statistical Analysis:Python scripts built for the analysis of statistics, including probability, hypothesis testing, and regression analysis.
+                    Data visualization: Ability to create clear and concise visualizations of data, such as charts, graphs, and dashboards on various software: Tableau, Google Sheets, Looker, BI, Excel
+                    
+          
+
+
 
 Currently working on replication systems for futures markets along with Data Analysis within the CME Group data systems. 
 
