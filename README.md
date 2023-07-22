@@ -15,7 +15,7 @@ Data Analysis:
 
 
 
-Futures Markets:  
+Trading:  
 
           Backtests and Algorithms for CME Globex Nasdaq 100 Emini Index, Nasdaq 100 Micro Emini Index,
           WTI Crude Oil, Dow Jones Emini Index and Forex currency pairs. 
