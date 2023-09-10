@@ -15,8 +15,8 @@ My name is Wolfrank Guzman and I focus most of my Python scripts on the followin
 
 [SQL:](https://github.com/guzmanwolfrank/SQL/tree/main) 
 
-          In this folder I have posted all my SQL projects.  SQL Queries are used to pull information and get specific answers 
-          about the data in a database or spreadsheet.  
+          Although these projects are also Data Analysis, I have segmented my SQL projects in this folder. 
+          SQL Queries are used along with Python and Seaborn in order to thoroughly analyze data. 
           
        
 
