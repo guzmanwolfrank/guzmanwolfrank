@@ -4,10 +4,10 @@ My name is Wolfrank Guzman and I focus most of my Python scripts on the followin
 
 [Data Analysis:](https://github.com/guzmanwolfrank/Data_Analysis) 
 
-          Data analysis and exploration:I use statistical methods and 
+          Data analysis and exploration: I use statistical methods and 
           machine learning algorithms to extract insights from data.
           
-          Statistical Analysis:Python scripts built for the analysis of statistics,
+          Statistical Analysis: Python scripts built for the analysis of statistics,
           including probability, hypothesis testing, and regression analysis.
           
           Data visualization: Projects where I create clear and concise visualizations of data. 
