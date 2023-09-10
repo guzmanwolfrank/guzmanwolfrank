@@ -13,7 +13,7 @@ My name is Wolfrank Guzman and I focus most of my Python scripts on the followin
           Data visualization: Projects where I create clear and concise visualizations of data. 
           Dashboards on various software: Tableau, Google Sheets, Looker, BI, Excel
 
-[SQL:](https://github.com/guzmanwolfrank/Data_Analysis) 
+[SQL:](https://github.com/guzmanwolfrank/Data_Analysis](https://github.com/guzmanwolfrank/SQL/tree/main) 
 
           In this folder I have posted all my SQL projects.  SQL Queries are used to pull information and get specific answers 
           about the data in a database or spreadsheet.  
