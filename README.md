@@ -15,7 +15,7 @@ My name is Wolfrank Guzman and I focus most of my Python scripts on the followin
 
 [SQL:](https://github.com/guzmanwolfrank/SQL/tree/main) 
 
-          SQL Queries are used along with Python and Seaborn in order to thoroughly analyze data.
+          SQL Queries are used along with Python and Seaborn module.
           Projects range from Trading backtests to Housing data using SQL and Python to perform data analysis. 
           
           
