@@ -22,7 +22,7 @@ My name is Wolfrank Guzman and I focus most of my Python scripts on the followin
           Simple python programs and code snippets.  
           Projects range from Trading backtests to Trading Charts, a Mortgage calculator and a Windows Startup file program. 
 
-[Trading:](https://github.com/guzmanwolfrank?tab=repositories&q=&type=public&language=&sort=)
+[Trading:](https://github.com/guzmanwolfrank/Trading)
 
           Backtests and Algorithms for CME Globex Nasdaq 100 Emini Index, Nasdaq 100 Micro Emini Index,
           WTI Crude Oil, Dow Jones Emini Index and Forex currency pairs. 
