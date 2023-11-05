@@ -13,21 +13,14 @@ My name is Wolfrank Guzman and I focus most of my Python scripts on the followin
           Data visualization: Projects where I create clear and concise visualizations of data. 
           Dashboards on various software: Tableau, Google Sheets, Looker, BI, Excel
 
+          SQL Queries are used along with Python and Seaborn module.
+          Projects range from Trading backtests to Housing data using SQL and Python to perform data analysis. 
+          
 
 [Python:](https://github.com/guzmanwolfrank/Python)
 
           Simple python programs and code snippets.  
           Projects range from Trading backtests to Trading Charts, a Mortgage calculator and a Windows Startup file program. 
-
-
-[SQL:](https://github.com/guzmanwolfrank/SQL/tree/main) 
-
-          SQL Queries are used along with Python and Seaborn module.
-          Projects range from Trading backtests to Housing data using SQL and Python to perform data analysis. 
-          
-          
-       
-
 
 [Trading:](https://github.com/guzmanwolfrank?tab=repositories&q=&type=public&language=&sort=)
 
