@@ -4,6 +4,7 @@ My name is Wolfrank Guzman. <br/>
 
 You can view my site at [GuzmanWolfrank](https://guzmanwolfrank.github.io/) and I focus most of my Python scripts on the following:
 <br/>
+
 [Data & SQL:](https://github.com/guzmanwolfrank/Data-SQL) 
 
           Data analysis and exploration: I use statistical methods and 
