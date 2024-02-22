@@ -20,7 +20,7 @@ My name is Wolfrank Guzman and I focus most of my Python scripts on the followin
 [Python:](https://github.com/guzmanwolfrank/Python)
 
           Simple python programs and code snippets.  
-          Projects range from Trading backtests to Trading Charts, a Mortgage calculator and a Windows Startup file program. 
+          Projects range from a Mortgage calculator to a Windows Startup file program. 
 
 [Quant Trading:](https://github.com/guzmanwolfrank/QuantTrading)
 
