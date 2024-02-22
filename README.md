@@ -22,9 +22,9 @@ My name is Wolfrank Guzman and I focus most of my Python scripts on the followin
           Simple python programs and code snippets.  
           Projects range from Trading backtests to Trading Charts, a Mortgage calculator and a Windows Startup file program. 
 
-[Quant Trading:](https://github.com/guzmanwolfrank/Trading)
+[Quant Trading:](https://github.com/guzmanwolfrank/QuantTrading)
 
-          Backtests and Algorithms for CME Globex Nasdaq 100 Emini Index, Nasdaq 100 Micro Emini Index,
+          Algorithmic Backtests and tools for CME Globex Nasdaq 100 Emini Index, Nasdaq 100 Micro Emini Index,
           WTI Crude Oil, Dow Jones Emini Index and Forex currency pairs. 
           
           Modules:  YFinance, Pandas, Numpy, Backtester, Zipline, QuantConnect, Oanda Brokerage: oandapyv20, Thinkorswim 
