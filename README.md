@@ -99,13 +99,12 @@ IT/Cloud Systems:
 IDE:  
 
           Microsoft  Visual Code
-          PYCHARM 
           Notepad 
           MS Powershell  
 
 OS:       
 
-          Linux + Windows 10, Apple IOS 
+          Linux + Windows 11, Apple IOS 
 
 
 #
