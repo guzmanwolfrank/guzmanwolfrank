@@ -25,7 +25,8 @@ You can view my site at [GuzmanWolfrank](https://guzmanwolfrank.github.io/) and 
 [Snowflake:](https://github.com/guzmanwolfrank/Snowflake)
 
           Simple templates for Snowflake that make data lives easier!  :) 
-          Projects range from a csv to DF converter within a SQL queries series in Snowflake to AWS and Snowflake project templates and tools. 
+          Projects range from a csv to DF converter within a SQL series
+          in Snowflake to AWS and Snowflake project templates and tools. 
 
           
 [Python:](https://github.com/guzmanwolfrank/Python)
