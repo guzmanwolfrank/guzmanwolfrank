@@ -22,7 +22,12 @@ You can view my site at [GuzmanWolfrank](https://guzmanwolfrank.github.io/) and 
           SQL Queries are used along with Python and Seaborn module.
           Projects range from Trading backtests to Housing data using SQL and Python to perform data analysis. 
           
+[Snowflake:](https://github.com/guzmanwolfrank/Snowflake)
 
+          Simple templates for Snowflake that make data lives easier!  :) 
+          Projects range from a csv to DF converter within a SQL queries series in Snowflake to AWS and Snowflake project templates and tools. 
+
+          
 [Python:](https://github.com/guzmanwolfrank/Python)
 
           Simple python programs and code snippets.  
@@ -71,6 +76,7 @@ Database:
           SQL
           MS Access
           MariaDB 
+          Snowflake 
 
 Languages:  
     
